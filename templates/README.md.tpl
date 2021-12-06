@@ -21,7 +21,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
+{{range rss "https://sunny-island.github.io" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
