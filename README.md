@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from &#34;The Go Programming Language&#34; (today)
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 week ago)
@@ -67,7 +68,6 @@
 - [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source database particularly designed to efficiently provide consistent data for machine learning driven applications.  (2 weeks ago)
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划 (3 weeks ago)
 - [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide) - 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C&#43;&#43; 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。 (3 weeks ago)
-- [DuHouAn/Java](https://github.com/DuHouAn/Java) - ☕️Java👫面向对象📝编程题💾数据库☎️常用框架📖系统设计💪工具📚参考资料 (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
