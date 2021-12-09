@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization. (today)
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive (today)
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (today)
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from &#34;The Go Programming Language&#34; (2 days ago)
@@ -67,7 +68,6 @@
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (2 weeks ago)
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (2 weeks ago)
 - [Robslhc/ubiquant-winograd](https://github.com/Robslhc/ubiquant-winograd) -  (2 weeks ago)
-- [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB) - OpenMLDB is an open-source database particularly designed to efficiently provide consistent data for machine learning driven applications.  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
