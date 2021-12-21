@@ -74,11 +74,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tsunho12](https://github.com/tsunho12)
 - [wangAlpha](https://github.com/wangAlpha)
 - [BlockchainHe](https://github.com/BlockchainHe)
 - [JiahangOK](https://github.com/JiahangOK)
 - [liuweiky](https://github.com/liuweiky)
-- [sWildGold](https://github.com/sWildGold)
 
 #### 💬 Feedback
 
