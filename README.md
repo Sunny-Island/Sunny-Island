@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [flink-china/flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021) - 本 GitHub 项目是 Flink Forward Asia Hackathon (2021) 的投票专用项目。 (today)
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization. (2 weeks ago)
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive (2 weeks ago)
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (2 weeks ago)
@@ -67,7 +68,6 @@
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 month ago)
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (1 month ago)
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (1 month ago)
-- [Robslhc/ubiquant-winograd](https://github.com/Robslhc/ubiquant-winograd) -  (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
