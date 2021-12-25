@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (today)
 - [flink-china/flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021) - 本 GitHub 项目是 Flink Forward Asia Hackathon (2021) 的投票专用项目。 (1 day ago)
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization. (2 weeks ago)
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive (2 weeks ago)
@@ -67,7 +68,6 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 month ago)
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. (1 month ago)
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
