@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.4](https://github.com/apache/pulsar/releases/tag/v2.7.4), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.4](https://github.com/apache/pulsar/releases/tag/v2.7.4), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/iotdb](https://github.com/apache/iotdb) ([v0.12.4](https://github.com/apache/iotdb/releases/tag/v0.12.4), 1 week ago) - Apache IoTDB
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.3](https://github.com/apache/bookkeeper/releases/tag/release-4.14.3), 1 month ago) - Apache Bookkeeper
 
