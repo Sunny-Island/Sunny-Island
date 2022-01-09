@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (today)
 - [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (6 days ago)
 - [LebronAl/raft-thesis-zh_cn](https://github.com/LebronAl/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 weeks ago)
 - [flink-china/flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021) - 本 GitHub 项目是 Flink Forward Asia Hackathon (2021) 的投票专用项目。 (2 weeks ago)
@@ -67,7 +68,6 @@
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from &#34;The Go Programming Language&#34; (1 month ago)
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
-- [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
