@@ -7,11 +7,11 @@
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (2 months ago)
 - [LebronAl/git-tips](https://github.com/LebronAl/git-tips) - 33 条常用 git 命令详解 (2 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (3 months ago)
-- [streamnative/pulsar-io-hudi](https://github.com/streamnative/pulsar-io-hudi) -  (4 months ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (5 months ago)
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (6 months ago)
 - [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (6 months ago)
 - [streamnative/pulsar-io-iotdb](https://github.com/streamnative/pulsar-io-iotdb) - Data sink connector for IoTDB(https://github.com/apache/iotdb) (8 months ago)
+- [Sunny-Island/Kafka2hdfs](https://github.com/Sunny-Island/Kafka2hdfs) - 美团大作业：用flink读取kafka写入hdfs (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,12 +38,12 @@
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
-- [Simple Hudi Sink](https://github.com/streamnative/pulsar-io-hudi/pull/5) on [streamnative/pulsar-io-hudi](https://github.com/streamnative/pulsar-io-hudi) (6 months ago)
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (7 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (7 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (7 months ago)
 - [[WIP]Support PMEM for journal storage](https://github.com/streamnative/bookkeeper/pull/370) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (7 months ago)
 - [[Doc] add metrics for the total non contiguous deleted messages range](https://github.com/apache/pulsar/pull/10663) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
+- [Add metrics for non-contiguous deleted messages range](https://github.com/apache/pulsar/pull/10638) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 
 #### 📜 My recent blog posts
 
