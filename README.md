@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (today)
 - [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (1 week ago)
 - [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (2 weeks ago)
 - [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (2 weeks ago)
@@ -67,7 +68,6 @@
 - [pravega/pravega](https://github.com/pravega/pravega) - Pravega - Streaming as a new software defined storage primitive (1 month ago)
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (1 month ago)
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from &#34;The Go Programming Language&#34; (1 month ago)
-- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
