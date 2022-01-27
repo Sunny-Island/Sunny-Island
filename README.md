@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (2 days ago)
+- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (3 days ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (1 month ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (3 days ago)
-- [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (1 week ago)
+- [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (4 days ago)
+- [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (2 weeks ago)
 - [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (2 weeks ago)
 - [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (3 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
