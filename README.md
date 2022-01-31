@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (6 days ago)
+- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (1 week ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (1 month ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (2 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (2 months ago)
@@ -58,12 +58,12 @@
 
 #### ⭐ Recent Stars
 
-- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 day ago)
-- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.  (3 days ago)
+- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 days ago)
+- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.  (4 days ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (1 week ago)
 - [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (2 weeks ago)
 - [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (3 weeks ago)
-- [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (3 weeks ago)
+- [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (4 weeks ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
 - [flink-china/flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021) - 本 GitHub 项目是 Flink Forward Asia Hackathon (2021) 的投票专用项目。 (1 month ago)
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization. (1 month ago)
