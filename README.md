@@ -74,11 +74,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ethanflower1903](https://github.com/ethanflower1903)
 - [Bert-Z](https://github.com/Bert-Z)
 - [tsunho12](https://github.com/tsunho12)
 - [wangAlpha](https://github.com/wangAlpha)
 - [BlockchainHe](https://github.com/BlockchainHe)
-- [JiahangOK](https://github.com/JiahangOK)
 
 #### 💬 Feedback
 
