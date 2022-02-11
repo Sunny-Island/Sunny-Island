@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.2](https://github.com/apache/pulsar/releases/tag/v2.8.2), 4 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.2](https://github.com/apache/pulsar/releases/tag/v2.8.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/iotdb](https://github.com/apache/iotdb) ([v0.12.4](https://github.com/apache/iotdb/releases/tag/v0.12.4), 1 month ago) - Apache IoTDB
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.3](https://github.com/apache/bookkeeper/releases/tag/release-4.14.3), 3 months ago) - Apache Bookkeeper
 
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (6 days ago)
+- [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (1 week ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 week ago)
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.  (2 weeks ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 weeks ago)
