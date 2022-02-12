@@ -59,10 +59,10 @@
 #### ⭐ Recent Stars
 
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (1 week ago)
-- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 week ago)
+- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 weeks ago)
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.  (2 weeks ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 weeks ago)
-- [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (4 weeks ago)
+- [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (1 month ago)
 - [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (1 month ago)
 - [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (1 month ago)
