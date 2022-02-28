@@ -74,11 +74,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [preethamb97](https://github.com/preethamb97)
 - [backhomeqz230](https://github.com/backhomeqz230)
 - [FullStackD](https://github.com/FullStackD)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [Bert-Z](https://github.com/Bert-Z)
-- [tsunho12](https://github.com/tsunho12)
 
 #### 💬 Feedback
 
