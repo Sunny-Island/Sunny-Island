@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (today)
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C&#43;&#43; that has been used in the WeChat production environment. (1 week ago)
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (3 weeks ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 month ago)
@@ -67,7 +68,6 @@
 - [intellistream/MorphStream](https://github.com/intellistream/MorphStream) -  (1 month ago)
 - [thuml/Autoformer](https://github.com/thuml/Autoformer) - About Code release for &#34;Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting&#34; (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (1 month ago)
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译 (2 months ago)
-- [flink-china/flink-forward-asia-hackathon-2021](https://github.com/flink-china/flink-forward-asia-hackathon-2021) - 本 GitHub 项目是 Flink Forward Asia Hackathon (2021) 的投票专用项目。 (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
