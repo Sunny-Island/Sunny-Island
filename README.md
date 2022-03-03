@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (1 day ago)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (2 days ago)
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C&#43;&#43; that has been used in the WeChat production environment. (1 week ago)
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (3 weeks ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 month ago)
