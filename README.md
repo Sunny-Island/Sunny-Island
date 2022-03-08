@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (1 week ago)
-- [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (1 week ago)
+- [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (2 weeks ago)
+- [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (2 weeks ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (1 month ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (3 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (3 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (6 days ago)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). (1 week ago)
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C&#43;&#43; that has been used in the WeChat production environment. (2 weeks ago)
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible. (1 month ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 month ago)
