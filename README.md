@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (today)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
@@ -43,7 +44,6 @@
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
 - [[WIP]Support PMEM for journal storage](https://github.com/streamnative/bookkeeper/pull/370) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
 - [[Doc] add metrics for the total non contiguous deleted messages range](https://github.com/apache/pulsar/pull/10663) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
-- [Add metrics for non-contiguous deleted messages range](https://github.com/apache/pulsar/pull/10638) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
 
 #### 📜 My recent blog posts
 
