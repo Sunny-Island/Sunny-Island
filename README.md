@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (today)
 - [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (5 days ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage (5 days ago)
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle (1 week ago)
@@ -66,7 +67,6 @@
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 month ago)
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.  (1 month ago)
 - [Smith-Cruise/TinyKV-White-Paper](https://github.com/Smith-Cruise/TinyKV-White-Paper) - Tutorial for TinyKV project in Talent Plan. (2 months ago)
-- [mrdulin/blog](https://github.com/mrdulin/blog) - Personal Blog - 博客 | 编程技术，软件，生活 (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
