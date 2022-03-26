@@ -41,7 +41,7 @@
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (9 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
-- [[WIP]Support PMEM for journal storage](https://github.com/streamnative/bookkeeper/pull/370) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
+- [[WIP]Support PMEM for journal storage](https://github.com/streamnative/bookkeeper/pull/370) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (10 months ago)
 - [[Doc] add metrics for the total non contiguous deleted messages range](https://github.com/apache/pulsar/pull/10663) on [apache/pulsar](https://github.com/apache/pulsar) (10 months ago)
 
 #### 📜 My recent blog posts
@@ -57,9 +57,9 @@
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (1 day ago)
-- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (6 days ago)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage (6 days ago)
+- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (2 days ago)
+- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (1 week ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️ (1 week ago)
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle (1 week ago)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese only). (3 weeks ago)
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C&#43;&#43; that has been used in the WeChat production environment. (1 month ago)
