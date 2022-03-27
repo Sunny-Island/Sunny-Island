@@ -37,7 +37,7 @@
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
-- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
+- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (9 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (9 months ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (2 days ago)
+- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (3 days ago)
 - [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (1 week ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage,  an open-source alternative to Snowflake ❤️ (1 week ago)
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle (1 week ago)
