@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (1 week ago)
+- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (2 weeks ago)
 - [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (2 weeks ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for sub-second analytics. (2 weeks ago)
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle (3 weeks ago)
