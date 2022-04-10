@@ -11,7 +11,6 @@
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (9 months ago)
 - [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (9 months ago)
 - [streamnative/pulsar-io-iotdb](https://github.com/streamnative/pulsar-io-iotdb) - Data sink connector for IoTDB(https://github.com/apache/iotdb) (11 months ago)
-- [Sunny-Island/Kafka2hdfs](https://github.com/Sunny-Island/Kafka2hdfs) - 美团大作业：用flink读取kafka写入hdfs (1 year ago)
 
 #### 🌱 My latest projects
 
