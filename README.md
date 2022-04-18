@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.2](https://github.com/apache/pulsar/releases/tag/v2.9.2), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.0](https://github.com/apache/pulsar/releases/tag/v2.10.0), today) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.3](https://github.com/apache/bookkeeper/releases/tag/release-4.14.3), 5 months ago) - Apache Bookkeeper
 
 #### 🔨 My recent Pull Requests
