@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (3 days ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (4 days ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 weeks ago)
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 weeks ago)
