@@ -10,7 +10,6 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (8 months ago)
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (9 months ago)
 - [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (9 months ago)
-- [streamnative/pulsar-io-iotdb](https://github.com/streamnative/pulsar-io-iotdb) - Data sink connector for IoTDB(https://github.com/apache/iotdb) (1 year ago)
 
 #### 🌱 My latest projects
 
