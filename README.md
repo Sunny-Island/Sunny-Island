@@ -71,11 +71,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ofirkris](https://github.com/ofirkris)
 - [834810071](https://github.com/834810071)
 - [preethamb97](https://github.com/preethamb97)
 - [backhomeqz230](https://github.com/backhomeqz230)
 - [FullStackD](https://github.com/FullStackD)
-- [ethanflower1903](https://github.com/ethanflower1903)
 
 #### 💬 Feedback
 
