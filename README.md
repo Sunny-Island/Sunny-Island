@@ -57,7 +57,7 @@
 
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 weeks ago)
-- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (2 weeks ago)
+- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (3 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 weeks ago)
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (3 weeks ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (3 weeks ago)
