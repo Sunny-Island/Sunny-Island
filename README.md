@@ -64,7 +64,7 @@
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (3 weeks ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (3 weeks ago)
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (1 month ago)
-- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform. (1 month ago)
+- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
