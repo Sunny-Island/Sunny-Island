@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (today)
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (1 week ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (1 week ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 weeks ago)
@@ -64,7 +65,6 @@
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (1 month ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (1 month ago)
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (1 month ago)
-- [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
