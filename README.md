@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.5](https://github.com/apache/bookkeeper/releases/tag/release-4.14.5), 3 days ago) - Apache Bookkeeper
+- [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.5](https://github.com/apache/bookkeeper/releases/tag/release-4.14.5), 4 days ago) - Apache Bookkeeper
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.0](https://github.com/apache/pulsar/releases/tag/v2.10.0), 4 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 🔨 My recent Pull Requests
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent Stars
 
-- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (3 days ago)
+- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (4 days ago)
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (1 week ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (1 week ago)
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 weeks ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (3 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 month ago)
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (1 month ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 month ago)
