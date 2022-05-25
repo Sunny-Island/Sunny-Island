@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (today)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (1 week ago)
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (3 weeks ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (3 weeks ago)
@@ -64,7 +65,6 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 month ago)
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs. (1 month ago)
 - [flower-corp/lotusdb](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b&#43;tree, inspired by SLM-DB in USENIX FAST ’19. (1 month ago)
-- [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
