@@ -35,7 +35,7 @@
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (6 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
-- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
+- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (10 months ago)
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (11 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (11 months ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (11 months ago)
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (today)
+- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (1 day ago)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (1 week ago)
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (3 weeks ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (3 weeks ago)
-- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (4 weeks ago)
+- [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 month ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 month ago)
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (1 month ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (1 month ago)
