@@ -9,7 +9,7 @@
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (7 months ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (10 months ago)
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (10 months ago)
-- [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (10 months ago)
+- [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -57,7 +57,7 @@
 
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 week ago)
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。 (1 week ago)
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (1 week ago)
+- [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (2 weeks ago)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (3 weeks ago)
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (1 month ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (1 month ago)
