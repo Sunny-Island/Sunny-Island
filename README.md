@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (today)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 week ago)
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。 (2 weeks ago)
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (2 weeks ago)
@@ -64,7 +65,6 @@
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 month ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 month ago)
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (2 months ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
