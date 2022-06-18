@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (5 days ago)
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (6 days ago)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (2 weeks ago)
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。 (3 weeks ago)
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (3 weeks ago)
@@ -71,11 +71,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [guangyuzhang](https://github.com/guangyuzhang)
 - [day253](https://github.com/day253)
 - [yanch2116](https://github.com/yanch2116)
 - [resslerruntime3](https://github.com/resslerruntime3)
 - [ofirkris](https://github.com/ofirkris)
-- [834810071](https://github.com/834810071)
 
 #### 💬 Feedback
 
