@@ -73,9 +73,9 @@
 
 - [guangyuzhang](https://github.com/guangyuzhang)
 - [day253](https://github.com/day253)
-- [yanch2116](https://github.com/yanch2116)
 - [resslerruntime3](https://github.com/resslerruntime3)
 - [ofirkris](https://github.com/ofirkris)
+- [834810071](https://github.com/834810071)
 
 #### 💬 Feedback
 
