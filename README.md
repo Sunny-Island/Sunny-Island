@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (today)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (1 week ago)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (2 weeks ago)
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。 (3 weeks ago)
@@ -64,7 +65,6 @@
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (1 month ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (1 month ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 months ago)
-- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
