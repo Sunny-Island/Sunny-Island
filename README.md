@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (today)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (3 months ago)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (7 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (10 months ago)
@@ -40,7 +41,6 @@
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (1 year ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (1 year ago)
 - [[WIP]Support PMEM for journal storage](https://github.com/streamnative/bookkeeper/pull/370) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (1 year ago)
-- [[Doc] add metrics for the total non contiguous deleted messages range](https://github.com/apache/pulsar/pull/10663) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 
 #### 📜 My recent blog posts
 
@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (today)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (1 week ago)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (2 weeks ago)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 month ago)
@@ -64,7 +65,6 @@
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation. (1 month ago)
 - [yanch2116/CharacterDriven-BlenderAddon](https://github.com/yanch2116/CharacterDriven-BlenderAddon) - An addon uses SMPL&#39;s poses and global translation to drive cartoon character in Blender. (1 month ago)
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop (2 months ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
