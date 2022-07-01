@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (today)
+- [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (1 day ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (3 months ago)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (7 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (10 months ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (today)
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 day ago)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (1 week ago)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (2 weeks ago)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 month ago)
