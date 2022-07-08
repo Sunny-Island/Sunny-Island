@@ -9,7 +9,7 @@
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (8 months ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (11 months ago)
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (11 months ago)
-- [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (11 months ago)
+- [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.5](https://github.com/apache/bookkeeper/releases/tag/release-4.14.5), 1 month ago) - Apache Bookkeeper
 
 #### 🔨 My recent Pull Requests
@@ -55,10 +55,10 @@
 
 #### ⭐ Recent Stars
 
-- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 day ago)
-- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (4 days ago)
-- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (4 days ago)
-- [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (6 days ago)
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (2 days ago)
+- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (5 days ago)
+- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (5 days ago)
+- [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (1 week ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 week ago)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (2 weeks ago)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (3 weeks ago)
