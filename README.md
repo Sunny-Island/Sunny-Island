@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.5](https://github.com/apache/bookkeeper/releases/tag/release-4.14.5), 1 month ago) - Apache Bookkeeper
 
 #### 🔨 My recent Pull Requests
@@ -55,13 +55,13 @@
 
 #### ⭐ Recent Stars
 
-- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (3 days ago)
-- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (6 days ago)
-- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (6 days ago)
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (4 days ago)
+- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 week ago)
+- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 week ago)
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (1 week ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 week ago)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (2 weeks ago)
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (3 weeks ago)
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (4 weeks ago)
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device  (1 month ago)
 - [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。 (1 month ago)
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud. (1 month ago)
