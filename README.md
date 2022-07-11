@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (today)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (2 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (4 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (5 months ago)
@@ -28,6 +29,7 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) ([release-4.14.5](https://github.com/apache/bookkeeper/releases/tag/release-4.14.5), 1 month ago) - Apache Bookkeeper
+- [apache/tvm](https://github.com/apache/tvm) ([v0.8.0](https://github.com/apache/tvm/releases/tag/v0.8.0), 7 months ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
 
