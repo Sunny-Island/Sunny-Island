@@ -9,8 +9,6 @@
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (7 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (8 months ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (11 months ago)
-- [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache Bookkeeper (1 year ago)
-- [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) -  (1 year ago)
 
 #### 🌱 My latest projects
 
