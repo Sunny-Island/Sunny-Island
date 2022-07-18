@@ -70,11 +70,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Wind-Gone](https://github.com/Wind-Gone)
 - [nihadenes](https://github.com/nihadenes)
 - [guangyuzhang](https://github.com/guangyuzhang)
 - [day253](https://github.com/day253)
 - [resslerruntime3](https://github.com/resslerruntime3)
-- [ofirkris](https://github.com/ofirkris)
 
 #### 💬 Feedback
 
