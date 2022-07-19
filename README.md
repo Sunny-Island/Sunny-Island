@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0.rc0](https://github.com/apache/tvm/releases/tag/v0.9.0.rc0), 5 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 5 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 🔨 My recent Pull Requests
