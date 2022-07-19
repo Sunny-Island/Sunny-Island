@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0.rc0](https://github.com/apache/tvm/releases/tag/v0.9.0.rc0), 4 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0.rc0](https://github.com/apache/tvm/releases/tag/v0.9.0.rc0), 5 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 🔨 My recent Pull Requests
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (5 days ago)
+- [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (6 days ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 week ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (2 weeks ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (2 weeks ago)
