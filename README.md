@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (today)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (1 week ago)
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (2 weeks ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (4 months ago)
@@ -40,7 +41,6 @@
 - [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (11 months ago)
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (1 year ago)
 - [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/apache/bookkeeper/pull/2727) on [apache/bookkeeper](https://github.com/apache/bookkeeper) (1 year ago)
-- [ISSUE #2726 Fix JAVA_HOME containing spaces](https://github.com/streamnative/bookkeeper/pull/373) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (1 year ago)
 
 #### 📜 My recent blog posts
 
