@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 week ago)
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (today)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 week ago)
+- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 week ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (3 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (4 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (5 months ago)
@@ -28,6 +29,7 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 1 week ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.8](https://github.com/microsoft/nni/releases/tag/v2.8), 4 weeks ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
 
