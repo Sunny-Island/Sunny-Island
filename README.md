@@ -35,7 +35,7 @@
 
 - [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (1 week ago)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (2 weeks ago)
-- [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (4 weeks ago)
+- [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (1 month ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (4 months ago)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (8 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (11 months ago)
@@ -57,14 +57,14 @@
 
 #### ⭐ Recent Stars
 
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (1 day ago)
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (2 days ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 week ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (2 weeks ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (3 weeks ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (3 weeks ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (3 weeks ago)
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (4 weeks ago)
-- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (4 weeks ago)
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 month ago)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (1 month ago)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls (1 month ago)
 
