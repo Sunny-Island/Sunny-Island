@@ -57,13 +57,13 @@
 
 #### ⭐ Recent Stars
 
-- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (today)
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (4 days ago)
+- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (1 day ago)
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (5 days ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 week ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (2 weeks ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (3 weeks ago)
-- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (4 weeks ago)
-- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (4 weeks ago)
+- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
+- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (1 month ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 month ago)
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) -  (1 month ago)
