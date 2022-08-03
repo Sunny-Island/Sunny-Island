@@ -14,6 +14,7 @@
 
 #### 🌱 My latest projects
 
+- [Sunny-Island/how-to-optimize-gemm](https://github.com/Sunny-Island/how-to-optimize-gemm) - 
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) - 
 - [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) - 
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books
@@ -23,7 +24,6 @@
 - [Sunny-Island/Text-based-sentiment-factor](https://github.com/Sunny-Island/Text-based-sentiment-factor) - 世界第一能赚钱的因子的发掘过程
 - [Sunny-Island/SmilesAnalysis](https://github.com/Sunny-Island/SmilesAnalysis) - 毕业设计
 - [Sunny-Island/sys_Echarts_FinalProject](https://github.com/Sunny-Island/sys_Echarts_FinalProject) - Final project of nuclear blablabla
-- [Sunny-Island/DBSCAN_Insert](https://github.com/Sunny-Island/DBSCAN_Insert) - This is a algorithm modified from approximation DBSCAN method
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (today)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (1 day ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (2 days ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (6 days ago)
@@ -66,7 +67,6 @@
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
 - [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (1 month ago)
-- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
