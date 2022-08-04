@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (today)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (2 weeks ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (3 weeks ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (3 weeks ago)
@@ -14,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) - 
 - [Sunny-Island/how-to-optimize-gemm](https://github.com/Sunny-Island/how-to-optimize-gemm) - 
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) - 
 - [Sunny-Island/pulsar-io-hudi](https://github.com/Sunny-Island/pulsar-io-hudi) - 
@@ -23,7 +25,6 @@
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) - 
 - [Sunny-Island/Text-based-sentiment-factor](https://github.com/Sunny-Island/Text-based-sentiment-factor) - 世界第一能赚钱的因子的发掘过程
 - [Sunny-Island/SmilesAnalysis](https://github.com/Sunny-Island/SmilesAnalysis) - 毕业设计
-- [Sunny-Island/sys_Echarts_FinalProject](https://github.com/Sunny-Island/sys_Echarts_FinalProject) - Final project of nuclear blablabla
 
 #### 🔭 Latest releases I've contributed to
 
