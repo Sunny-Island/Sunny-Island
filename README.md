@@ -28,7 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 3 weeks ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v2.8](https://github.com/microsoft/nni/releases/tag/v2.8), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
