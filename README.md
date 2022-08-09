@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (4 days ago)
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (5 days ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (2 weeks ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (4 weeks ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (4 weeks ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (5 days ago)
-- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (6 days ago)
+- [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (6 days ago)
+- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (1 week ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (1 week ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (1 week ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (2 weeks ago)
