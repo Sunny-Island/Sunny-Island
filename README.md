@@ -7,7 +7,7 @@
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 month ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (4 months ago)
-- [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (5 months ago)
+- [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (6 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (6 months ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (9 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (9 months ago)
@@ -28,7 +28,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.8](https://github.com/microsoft/nni/releases/tag/v2.8), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.8](https://github.com/microsoft/nni/releases/tag/v2.8), 2 months ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
 
@@ -60,7 +60,7 @@
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (2 weeks ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (2 weeks ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (3 weeks ago)
-- [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (4 weeks ago)
+- [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 month ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (1 month ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 month ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
