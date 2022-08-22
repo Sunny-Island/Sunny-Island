@@ -8,7 +8,7 @@
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 month ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (4 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (6 months ago)
-- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (6 months ago)
+- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (7 months ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (9 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (9 months ago)
 
@@ -58,7 +58,7 @@
 
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (2 weeks ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (2 weeks ago)
-- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (2 weeks ago)
+- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (3 weeks ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (3 weeks ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 month ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (1 month ago)
