@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (today)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (3 weeks ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (3 weeks ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (3 weeks ago)
@@ -65,7 +66,6 @@
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 month ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
-- [d2l-ai/d2l-tvm](https://github.com/d2l-ai/d2l-tvm) - Dive into Deep Learning Compiler (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
