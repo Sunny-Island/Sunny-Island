@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (today)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (2 days ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (3 weeks ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (3 weeks ago)
@@ -65,7 +66,6 @@
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (1 month ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 month ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
-- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
