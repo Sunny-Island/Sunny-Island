@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (1 day ago)
-- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (3 days ago)
+- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (2 days ago)
+- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (4 days ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (3 weeks ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (3 weeks ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (3 weeks ago)
