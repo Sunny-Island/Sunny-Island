@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (3 weeks ago)
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (4 weeks ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (1 month ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (1 month ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (1 month ago)
@@ -56,16 +56,16 @@
 
 #### ⭐ Recent Stars
 
-- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (5 days ago)
+- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (6 days ago)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (1 week ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (4 weeks ago)
-- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (4 weeks ago)
+- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (1 month ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (1 month ago)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (1 month ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 month ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (1 month ago)
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 month ago)
-- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (1 month ago)
+- [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
