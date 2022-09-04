@@ -64,7 +64,7 @@
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C&#43;&#43;》翻译 - 已完成 (1 month ago)
 - [Tencent/TPAT](https://github.com/Tencent/TPAT) - TensorRT Plugin Autogen Tool (1 month ago)
 - [jacknewsom/autohas-pytorch](https://github.com/jacknewsom/autohas-pytorch) - General implementation of AutoHAS in PyTorch (1 month ago)
-- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (1 month ago)
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C&#43;&#43;那些事 (2 months ago)
 - [3masterplus/book](https://github.com/3masterplus/book) - Book PDF (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
