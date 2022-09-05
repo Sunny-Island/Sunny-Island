@@ -10,7 +10,7 @@
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (6 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (7 months ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (9 months ago)
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (9 months ago)
+- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (1 month ago)
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (2 months ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (5 months ago)
-- [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (9 months ago)
+- [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (10 months ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 - [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (today)
+- [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (1 day ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (1 week ago)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (1 week ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (1 month ago)
