@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), today) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.8](https://github.com/microsoft/nni/releases/tag/v2.8), 2 months ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
 
