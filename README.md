@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), today) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 1 day ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (today)
-- [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (3 days ago)
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (1 day ago)
+- [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (4 days ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (1 week ago)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (2 weeks ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (1 month ago)
