@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 4 days ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 5 days ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 2 months ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
 
@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [MapReduce论文阅读](https://zhaojiabei.ink/2022/04/15/MapReduce%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (4 months ago)
+- [MapReduce论文阅读](https://zhaojiabei.ink/2022/04/15/MapReduce%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (5 months ago)
 - [Bigtable论文阅读](https://zhaojiabei.ink/2022/04/10/BigTable%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (5 months ago)
 - [九坤并行程序优化大赛第一届经验总结](https://zhaojiabei.ink/2022/02/21/%E4%B9%9D%E5%9D%A4%E5%B9%B6%E8%A1%8C%E7%A8%8B%E5%BA%8F%E4%BC%98%E5%8C%96%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%B1%8A%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/) (6 months ago)
 - [布隆过滤器](https://zhaojiabei.ink/2021/10/18/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8/) (10 months ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (2 days ago)
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (4 days ago)
+- [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (3 days ago)
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (5 days ago)
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (1 week ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (2 weeks ago)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (2 weeks ago)
