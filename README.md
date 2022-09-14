@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 6 days ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 1 week ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 2 months ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (4 days ago)
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (6 days ago)
+- [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (5 days ago)
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (1 week ago)
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (1 week ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (2 weeks ago)
-- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (2 weeks ago)
+- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (3 weeks ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (1 month ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (1 month ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (1 month ago)
