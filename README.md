@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [frankfanslc](https://github.com/frankfanslc)
 - [HustCoderHu](https://github.com/HustCoderHu)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [Wind-Gone](https://github.com/Wind-Gone)
 - [guangyuzhang](https://github.com/guangyuzhang)
-- [day253](https://github.com/day253)
 
 #### 💬 Feedback
 
