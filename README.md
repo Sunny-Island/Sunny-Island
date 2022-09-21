@@ -8,7 +8,7 @@
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (2 months ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (5 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (7 months ago)
-- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (7 months ago)
+- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (8 months ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (10 months ago)
 - [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (10 months ago)
 
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 1 week ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 2 weeks ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [apache/tvm](https://github.com/apache/tvm) ([v0.9.0](https://github.com/apache/tvm/releases/tag/v0.9.0), 2 months ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
@@ -56,12 +56,12 @@
 
 #### ⭐ Recent Stars
 
-- [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) - Flutter淘宝App，支持iOS、Android (4 days ago)
+- [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) - Flutter淘宝App，支持iOS、Android (5 days ago)
 - [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (1 week ago)
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (1 week ago)
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (2 weeks ago)
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (2 weeks ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (3 weeks ago)
-- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (3 weeks ago)
+- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (4 weeks ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (1 month ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (1 month ago)
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework (1 month ago)
