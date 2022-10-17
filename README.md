@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.10.0rc0](https://github.com/apache/tvm/releases/tag/v0.10.0rc0), 6 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.10.0rc0](https://github.com/apache/tvm/releases/tag/v0.10.0rc0), 1 week ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (3 days ago)
+- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (4 days ago)
 - [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) - Flutter淘宝App，支持iOS、Android (1 month ago)
 - [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (1 month ago)
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (1 month ago)
