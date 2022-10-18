@@ -27,13 +27,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.10.0](https://github.com/apache/tvm/releases/tag/v0.10.0), today) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.10.0](https://github.com/apache/tvm/releases/tag/v0.10.0), 1 day ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v2.9](https://github.com/microsoft/nni/releases/tag/v2.9), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
 
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (2 weeks ago)
-- [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (2 months ago)
+- [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (3 months ago)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (3 months ago)
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (3 months ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (7 months ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (4 days ago)
+- [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (5 days ago)
 - [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) - Flutter淘宝App，支持iOS、Android (1 month ago)
 - [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (1 month ago)
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (1 month ago)
