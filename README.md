@@ -4,8 +4,8 @@
 
 - [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (2 months ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (3 months ago)
-- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (3 months ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (3 months ago)
+- [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (3 months ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (6 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (8 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (9 months ago)
