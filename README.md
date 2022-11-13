@@ -10,7 +10,6 @@
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (8 months ago)
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (9 months ago)
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) -  (11 months ago)
-- [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) - 33 条常用 git 命令详解 (1 year ago)
 
 #### 🌱 My latest projects
 
