@@ -8,7 +8,7 @@
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (5 months ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (8 months ago)
 - [Sunny-Island/Resources](https://github.com/Sunny-Island/Resources) - save Resources such as images and books (10 months ago)
-- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (10 months ago)
+- [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) -  (11 months ago)
 
 #### 🌱 My latest projects
 
