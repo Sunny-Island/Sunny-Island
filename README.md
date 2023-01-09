@@ -74,7 +74,7 @@
 - [xingzhuimeteorite](https://github.com/xingzhuimeteorite)
 - [frankfanslc](https://github.com/frankfanslc)
 - [HustCoderHu](https://github.com/HustCoderHu)
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
+- [Wind-Gone](https://github.com/Wind-Gone)
 
 #### 💬 Feedback
 
