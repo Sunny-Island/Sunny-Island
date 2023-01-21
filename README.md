@@ -38,7 +38,7 @@
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (1 year ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
-- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
+- [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (2 years ago)
 - [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper/pull/384) on [streamnative/bookkeeper](https://github.com/streamnative/bookkeeper) (2 years ago)
 
 #### 📜 My recent blog posts
@@ -61,7 +61,7 @@
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (4 months ago)
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (4 months ago)
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (4 months ago)
-- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (4 months ago)
+- [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (5 months ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (5 months ago)
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (5 months ago)
 
