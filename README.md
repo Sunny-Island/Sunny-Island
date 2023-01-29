@@ -63,7 +63,7 @@
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (5 months ago)
 - [thulab/iotdb-quality](https://github.com/thulab/iotdb-quality) - Apache IoTDB&#39;s UDF about data quality (5 months ago)
 - [Mengjintao/FastConv](https://github.com/Mengjintao/FastConv) -  (5 months ago)
-- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (5 months ago)
+- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
