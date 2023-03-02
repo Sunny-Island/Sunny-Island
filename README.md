@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (6 months ago)
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (7 months ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (7 months ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) - Temp repo for prototyping relax(relay next), the effort will be upstreamed. We use the wiki pages on this repo to host design docs. (7 months ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (7 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.11.0.rc0](https://github.com/apache/tvm/releases/tag/v0.11.0.rc0), 4 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.11.0.rc0](https://github.com/apache/tvm/releases/tag/v0.11.0.rc0), 5 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v2.10](https://github.com/microsoft/nni/releases/tag/v2.10), 3 months ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
