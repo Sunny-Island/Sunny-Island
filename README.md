@@ -68,11 +68,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [mmertpolat](https://github.com/mmertpolat)
 - [toum120](https://github.com/toum120)
 - [xingzhuimeteorite](https://github.com/xingzhuimeteorite)
 - [frankfanslc](https://github.com/frankfanslc)
 - [HustCoderHu](https://github.com/HustCoderHu)
-- [Wind-Gone](https://github.com/Wind-Gone)
 
 #### 💬 Feedback
 
