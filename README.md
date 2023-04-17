@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (8 months ago)
-- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (8 months ago)
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (9 months ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) -  (9 months ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (9 months ago)
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) -  (1 year ago)
