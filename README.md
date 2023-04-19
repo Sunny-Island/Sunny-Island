@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (today)
 - [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (2 weeks ago)
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (4 weeks ago)
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for &#34;Python for Data Analysis&#34; by Wes McKinney, published by O&#39;Reilly Media (2 months ago)
@@ -61,7 +62,6 @@
 - [THU-DSP-LAB/ventus-gpgpu](https://github.com/THU-DSP-LAB/ventus-gpgpu) - GPGPU processor supporting RISCV-V extension, developed with Chisel HDL (7 months ago)
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners. (7 months ago)
 - [juand-r/entity-recognition-datasets](https://github.com/juand-r/entity-recognition-datasets) - A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types. (7 months ago)
-- [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) - BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads. (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
