@@ -27,7 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (6 months ago)
+- [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (7 months ago)
 - [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (9 months ago)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (9 months ago)
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (10 months ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (today)
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (1 day ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
 - [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (3 weeks ago)
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (1 month ago)
