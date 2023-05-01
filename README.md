@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (8 months ago)
+- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (9 months ago)
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (9 months ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) -  (9 months ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (9 months ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (4 days ago)
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (5 days ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
 - [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (3 weeks ago)
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (1 month ago)
