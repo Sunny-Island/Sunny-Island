@@ -51,9 +51,9 @@
 
 #### ⭐ Recent Stars
 
-- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (5 days ago)
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (6 days ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 week ago)
-- [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (3 weeks ago)
+- [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (4 weeks ago)
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (1 month ago)
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for &#34;Python for Data Analysis&#34; by Wes McKinney, published by O&#39;Reilly Media (2 months ago)
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot &#43; MyBatis Plus &#43; Vue &amp; Element 实现的后台管理系统 &#43; 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (3 months ago)
