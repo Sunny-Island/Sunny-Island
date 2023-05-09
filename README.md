@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nimish-verma](https://github.com/nimish-verma)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [mmertpolat](https://github.com/mmertpolat)
 - [toum120](https://github.com/toum120)
 - [xingzhuimeteorite](https://github.com/xingzhuimeteorite)
-- [frankfanslc](https://github.com/frankfanslc)
 
 #### 💬 Feedback
 
