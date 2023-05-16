@@ -22,13 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 5 days ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 6 days ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [apache/tvm](https://github.com/apache/tvm) ([v0.12.0.rc0](https://github.com/apache/tvm/releases/tag/v0.12.0.rc0), 1 week ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 
 #### 🔨 My recent Pull Requests
 
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (7 months ago)
-- [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (9 months ago)
+- [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (10 months ago)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (10 months ago)
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (10 months ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (1 year ago)
