@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.12.0](https://github.com/apache/tvm/releases/tag/v0.12.0), 3 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.12.0](https://github.com/apache/tvm/releases/tag/v0.12.0), 4 days ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 1 week ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (3 weeks ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (1 month ago)
 - [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (1 month ago)
-- [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (1 month ago)
+- [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF (2 months ago)
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for &#34;Python for Data Analysis&#34; by Wes McKinney, published by O&#39;Reilly Media (3 months ago)
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot &#43; MyBatis Plus &#43; Vue &amp; Element 实现的后台管理系统 &#43; 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (4 months ago)
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (7 months ago)
