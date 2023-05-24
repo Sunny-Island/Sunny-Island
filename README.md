@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [zhouqqhh](https://github.com/zhouqqhh)
 - [lyh983012](https://github.com/lyh983012)
 - [nimish-verma](https://github.com/nimish-verma)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [mmertpolat](https://github.com/mmertpolat)
-- [toum120](https://github.com/toum120)
 
 #### 💬 Feedback
 
