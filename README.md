@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (today)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (2 weeks ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (3 weeks ago)
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (1 month ago)
@@ -60,7 +61,6 @@
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for &#34;Python for Data Analysis&#34; by Wes McKinney, published by O&#39;Reilly Media (3 months ago)
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot &#43; MyBatis Plus &#43; Vue &amp; Element 实现的后台管理系统 &#43; 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (5 months ago)
 - [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) - Piccolo (formerly Pilot) – mini game engine for games104 (8 months ago)
-- [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) - Flutter淘宝App，支持iOS、Android (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
