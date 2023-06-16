@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (10 months ago)
-- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (10 months ago)
+- [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning. (11 months ago)
 - [tlc-pack/relax](https://github.com/tlc-pack/relax) -  (11 months ago)
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators (11 months ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/tvm](https://github.com/apache/tvm) ([v0.12.0](https://github.com/apache/tvm/releases/tag/v0.12.0), 4 weeks ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) ([v0.12.0](https://github.com/apache/tvm/releases/tag/v0.12.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (today)
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (1 day ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (2 weeks ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (3 weeks ago)
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (1 month ago)
