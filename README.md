@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow (today)
-- [THUNLP-MT/DBKD-PLM](https://github.com/THUNLP-MT/DBKD-PLM) - Codebase for ACL 2023 conference long paper Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models. (today)
+- [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow (1 day ago)
+- [THUNLP-MT/DBKD-PLM](https://github.com/THUNLP-MT/DBKD-PLM) - Codebase for ACL 2023 conference long paper Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models. (1 day ago)
 - [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (3 weeks ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (1 month ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (1 month ago)
