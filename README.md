@@ -23,7 +23,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [apache/tvm](https://github.com/apache/tvm) ([v0.12.0](https://github.com/apache/tvm/releases/tag/v0.12.0), 1 month ago) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
-- [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 1 month ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) ([v3.0rc1](https://github.com/microsoft/nni/releases/tag/v3.0rc1), 2 months ago) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 
 #### 🔨 My recent Pull Requests
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow (1 day ago)
-- [THUNLP-MT/DBKD-PLM](https://github.com/THUNLP-MT/DBKD-PLM) - Codebase for ACL 2023 conference long paper Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models. (1 day ago)
+- [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow (2 days ago)
+- [THUNLP-MT/DBKD-PLM](https://github.com/THUNLP-MT/DBKD-PLM) - Codebase for ACL 2023 conference long paper Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models. (2 days ago)
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (3 weeks ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (1 month ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (1 month ago)
