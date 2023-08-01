@@ -46,6 +46,8 @@
 
 #### ⭐ Recent Stars
 
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥 (today)
+- [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning. (today)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 week ago)
 - [bytedance/primus](https://github.com/bytedance/primus) -  (2 weeks ago)
 - [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow (3 weeks ago)
@@ -54,8 +56,6 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (2 months ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 months ago)
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (3 months ago)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (3 months ago)
-- [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss&#39;s trainer, for diffusion model. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
