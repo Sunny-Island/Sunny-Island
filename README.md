@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) -  (1 year ago)
 
 #### 🌱 My latest projects
 
