@@ -53,7 +53,7 @@
 - [THUNLP-MT/DBKD-PLM](https://github.com/THUNLP-MT/DBKD-PLM) - Codebase for ACL 2023 conference long paper Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models. (2 months ago)
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (3 months ago)
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer (3 months ago)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (3 months ago)
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (4 months ago)
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams  (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
