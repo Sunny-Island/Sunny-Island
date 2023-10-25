@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [lyh983012/SNN-ANN-Pretrain](https://github.com/lyh983012/SNN-ANN-Pretrain) - official pytorch implements for the experiments of paper &#34;Rethinking Pretraining as a Bridge from ANNs to SNNs&#34; (today)
+- [lyh983012/SNN-ANN-Pretrain](https://github.com/lyh983012/SNN-ANN-Pretrain) - official pytorch implements for the experiments of paper &#34;Rethinking Pretraining as a Bridge from ANNs to SNNs&#34; (1 day ago)
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware. (2 weeks ago)
 - [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. (4 weeks ago)
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥 (2 months ago)
