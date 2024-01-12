@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; more LLMs (4 weeks ago)
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (1 month ago)
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; more LLMs (1 month ago)
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (2 months ago)
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version (2 months ago)
 - [lyh983012/SNN-ANN-Pretrain](https://github.com/lyh983012/SNN-ANN-Pretrain) - official pytorch implements for the experiments of paper &#34;Rethinking Pretraining as a Bridge from ANNs to SNNs&#34; (2 months ago)
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware. (3 months ago)
