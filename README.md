@@ -54,7 +54,7 @@
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥 (5 months ago)
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning. (5 months ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (5 months ago)
-- [bytedance/primus](https://github.com/bytedance/primus) -  (5 months ago)
+- [bytedance/primus](https://github.com/bytedance/primus) -  (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
