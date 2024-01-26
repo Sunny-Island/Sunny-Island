@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (1 day ago)
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (3 days ago)
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (3 days ago)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (2 days ago)
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (4 days ago)
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (4 days ago)
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; more LLMs (1 month ago)
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (2 months ago)
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version (2 months ago)
