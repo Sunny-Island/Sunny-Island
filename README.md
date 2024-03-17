@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Thalfish](https://github.com/Thalfish)
 - [Lanrenw](https://github.com/Lanrenw)
 - [Thu-mrquan](https://github.com/Thu-mrquan)
 - [zhouqqhh](https://github.com/zhouqqhh)
 - [lyh983012](https://github.com/lyh983012)
+- [nimish-verma](https://github.com/nimish-verma)
 
 #### 💬 Feedback
 
