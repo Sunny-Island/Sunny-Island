@@ -46,10 +46,10 @@
 #### ⭐ Recent Stars
 
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) -  (2 weeks ago)
-- [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (3 weeks ago)
-- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 weeks ago)
+- [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (4 weeks ago)
+- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (4 weeks ago)
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code (2 months ago)
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (2 months ago)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (3 months ago)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (3 months ago)
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (3 months ago)
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; more LLMs (4 months ago)
