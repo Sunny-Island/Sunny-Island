@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [yangshengaa](https://github.com/yangshengaa)
 - [timeqsz](https://github.com/timeqsz)
 - [HankyZhao](https://github.com/HankyZhao)
 - [Kites-Kites](https://github.com/Kites-Kites)
 - [Lanrenw](https://github.com/Lanrenw)
-- [Thu-mrquan](https://github.com/Thu-mrquan)
 
 #### 💬 Feedback
 
