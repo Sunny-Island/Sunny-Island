@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) -  (2 months ago)
+- [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) -  (3 months ago)
 - [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (3 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code (5 months ago)
