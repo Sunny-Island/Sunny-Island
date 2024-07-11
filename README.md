@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (today)
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) -  (3 months ago)
 - [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (3 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
@@ -54,7 +55,6 @@
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (5 months ago)
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; GLM4 (7 months ago)
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 (8 months ago)
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
