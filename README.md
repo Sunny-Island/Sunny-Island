@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (today)
 - [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (2 weeks ago)
 - [lancetw/ebook-1](https://github.com/lancetw/ebook-1) - A collection of classic computer science books from Internet (3 months ago)
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (7 months ago)
@@ -54,7 +55,6 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (10 months ago)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. (10 months ago)
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (10 months ago)
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C&#43;&#43; implementation of ChatGLM-6B &amp; ChatGLM2-6B &amp; ChatGLM3 &amp; GLM4(V) (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
