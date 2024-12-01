@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution. (3 days ago)
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution. (4 days ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (1 week ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 week ago)
 - [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (1 month ago)
