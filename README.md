@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (6 days ago)
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (1 week ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (2 weeks ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (2 weeks ago)
 - [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (1 month ago)
 - [lancetw/ebook-1](https://github.com/lancetw/ebook-1) - A collection of classic computer science books from Internet (3 months ago)
-- [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (7 months ago)
+- [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (8 months ago)
 - [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (8 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (8 months ago)
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code (10 months ago)
