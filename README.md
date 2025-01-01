@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (3 weeks ago)
-- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (3 weeks ago)
+- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (4 weeks ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (1 month ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (1 month ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 month ago)
