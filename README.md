@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [idimetrix](https://github.com/idimetrix)
 - [yangshengaa](https://github.com/yangshengaa)
 - [timeqsz](https://github.com/timeqsz)
 - [HankyZhao](https://github.com/HankyZhao)
+- [Kites-Kites](https://github.com/Kites-Kites)
 
 #### 💬 Feedback
 
