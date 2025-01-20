@@ -53,8 +53,8 @@
 - [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (2 months ago)
 - [lancetw/ebook-1](https://github.com/lancetw/ebook-1) - A collection of classic computer science books from Internet (5 months ago)
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (9 months ago)
-- [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (9 months ago)
-- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (9 months ago)
+- [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (10 months ago)
+- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
