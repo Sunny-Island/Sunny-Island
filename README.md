@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (today)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (1 month ago)
 - [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (1 month ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (1 month ago)
@@ -54,7 +55,6 @@
 - [lancetw/ebook-1](https://github.com/lancetw/ebook-1) - A collection of classic computer science books from Internet (5 months ago)
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (9 months ago)
 - [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (10 months ago)
-- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
