@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (5 days ago)
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (6 days ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (1 month ago)
 - [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (1 month ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (2 months ago)
@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [idimetrix](https://github.com/idimetrix)
 - [yangshengaa](https://github.com/yangshengaa)
 - [timeqsz](https://github.com/timeqsz)
 - [HankyZhao](https://github.com/HankyZhao)
-- [Kites-Kites](https://github.com/Kites-Kites)
 
 #### 💬 Feedback
 
