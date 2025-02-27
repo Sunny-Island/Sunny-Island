@@ -51,7 +51,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (3 months ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (3 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (3 months ago)
-- [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (3 months ago)
+- [apache/iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg (4 months ago)
 - [lancetw/ebook-1](https://github.com/lancetw/ebook-1) - A collection of classic computer science books from Internet (6 months ago)
 - [binance/binance-futures-connector-python](https://github.com/binance/binance-futures-connector-python) - Simple python connector to Binance Futures API (10 months ago)
 - [fedden/poker_ai](https://github.com/fedden/poker_ai) - 🤖 An Open Source Texas Hold&#39;em AI (11 months ago)
