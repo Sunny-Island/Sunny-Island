@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 weeks ago)
-- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (1 month ago)
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (2 months ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (3 months ago)
 - [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (3 months ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (3 months ago)
