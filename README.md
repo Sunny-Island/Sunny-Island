@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [Sebastian-Tong](https://github.com/Sebastian-Tong)
 - [bludnic](https://github.com/bludnic)
 - [idimetrix](https://github.com/idimetrix)
 - [yangshengaa](https://github.com/yangshengaa)
-- [timeqsz](https://github.com/timeqsz)
 
 #### 💬 Feedback
 
