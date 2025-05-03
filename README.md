@@ -48,7 +48,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (2 months ago)
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (3 months ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (4 months ago)
-- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (4 months ago)
+- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (5 months ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (5 months ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (5 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (5 months ago)
