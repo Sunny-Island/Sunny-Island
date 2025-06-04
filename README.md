@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [lyupy](https://github.com/lyupy)
 - [filedonkey](https://github.com/filedonkey)
 - [Connor9994](https://github.com/Connor9994)
 - [Sebastian-Tong](https://github.com/Sebastian-Tong)
 - [bludnic](https://github.com/bludnic)
-- [idimetrix](https://github.com/idimetrix)
 
 #### 💬 Feedback
 
