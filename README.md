@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Jinbo-W](https://github.com/Jinbo-W)
 - [standardgalactic](https://github.com/standardgalactic)
 - [lyupy](https://github.com/lyupy)
 - [Connor9994](https://github.com/Connor9994)
 - [Sebastian-Tong](https://github.com/Sebastian-Tong)
-- [bludnic](https://github.com/bludnic)
 
 #### 💬 Feedback
 
