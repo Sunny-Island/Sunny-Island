@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nstrmx](https://github.com/nstrmx)
 - [eliseliangz](https://github.com/eliseliangz)
 - [Jinbo-W](https://github.com/Jinbo-W)
 - [standardgalactic](https://github.com/standardgalactic)
 - [lyupy](https://github.com/lyupy)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
