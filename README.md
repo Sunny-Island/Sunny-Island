@@ -50,7 +50,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (6 months ago)
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (7 months ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (8 months ago)
-- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (8 months ago)
+- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (9 months ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (9 months ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (9 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (9 months ago)
@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
 - [Jinbo-W](https://github.com/Jinbo-W)
 - [standardgalactic](https://github.com/standardgalactic)
-- [lyupy](https://github.com/lyupy)
 
 #### 💬 Feedback
 
