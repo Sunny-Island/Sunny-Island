@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
 - [Jinbo-W](https://github.com/Jinbo-W)
 - [standardgalactic](https://github.com/standardgalactic)
+- [lyupy](https://github.com/lyupy)
 
 #### 💬 Feedback
 
