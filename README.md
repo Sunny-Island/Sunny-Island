@@ -54,7 +54,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (11 months ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (11 months ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (11 months ago)
-- [apache/iceberg-python](https://github.com/apache/iceberg-python) - PyIceberg (11 months ago)
+- [apache/iceberg-python](https://github.com/apache/iceberg-python) - PyIceberg (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
