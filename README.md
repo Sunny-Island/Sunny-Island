@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/deploy](https://github.com/Sunny-Island/deploy) - Online deploy, monitor. alert (today)
+- [Sunny-Island/deploy](https://github.com/Sunny-Island/deploy) - Online deploy, monitor. alert (1 day ago)
 
 #### 🌱 My latest projects
 
