@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (today)
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (5 months ago)
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history (6 months ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (10 months ago)
@@ -54,7 +55,6 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (1 year ago)
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (1 year ago)
 - [apache/tsfile](https://github.com/apache/tsfile) - Apache TsFile (1 year ago)
-- [apache/iceberg-python](https://github.com/apache/iceberg-python) - PyIceberg (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
