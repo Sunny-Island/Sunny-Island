@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (today)
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (5 months ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 day ago)
+- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (6 months ago)
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history (6 months ago)
-- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (10 months ago)
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (11 months ago)
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (1 year ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (1 year ago)
 - [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (1 year ago)
