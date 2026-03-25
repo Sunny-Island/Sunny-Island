@@ -34,7 +34,7 @@
 
 #### 📜 My recent blog posts
 
-- [MapReduce论文阅读](https://zhaojiabei.ink/2022/04/15/MapReduce%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (3 years ago)
+- [MapReduce论文阅读](https://zhaojiabei.ink/2022/04/15/MapReduce%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (4 years ago)
 - [Bigtable论文阅读](https://zhaojiabei.ink/2022/04/10/BigTable%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/) (4 years ago)
 - [九坤并行程序优化大赛第一届经验总结](https://zhaojiabei.ink/2022/02/21/%E4%B9%9D%E5%9D%A4%E5%B9%B6%E8%A1%8C%E7%A8%8B%E5%BA%8F%E4%BC%98%E5%8C%96%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%B1%8A%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/) (4 years ago)
 - [布隆过滤器](https://zhaojiabei.ink/2021/10/18/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8/) (4 years ago)
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 months ago)
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (7 months ago)
+- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (8 months ago)
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history (8 months ago)
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (1 year ago)
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (1 year ago)
