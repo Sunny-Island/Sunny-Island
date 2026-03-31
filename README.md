@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [instructkr/claude-code](https://github.com/instructkr/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic. (today)
+- [instructkr/claude-code](https://github.com/instructkr/claude-code) - An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only. (today)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 months ago)
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (8 months ago)
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history (8 months ago)
