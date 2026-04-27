@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [xings19](https://github.com/xings19)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
 - [Jinbo-W](https://github.com/Jinbo-W)
-- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
