@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (today)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 month ago)
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (3 months ago)
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (9 months ago)
@@ -54,18 +55,17 @@
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (1 year ago)
 - [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (1 year ago)
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution (1 year ago)
-- [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
 - [xings19](https://github.com/xings19)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
 - [Jinbo-W](https://github.com/Jinbo-W)
+- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
