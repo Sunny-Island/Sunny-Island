@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (today)
 - [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000&#43; 词汇语料库 (1 week ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 week ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 month ago)
@@ -54,7 +55,6 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (1 year ago)
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library (1 year ago)
 - [tonybaloney/cpython-book-samples](https://github.com/tonybaloney/cpython-book-samples) - Sample scripts and examples for my CPython Internals book (1 year ago)
-- [apache/iceberg-cpp](https://github.com/apache/iceberg-cpp) - Apache Iceberg C&#43;&#43; (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
