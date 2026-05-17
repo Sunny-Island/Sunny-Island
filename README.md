@@ -2,9 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (today)
+- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (today)
 
 #### 🌱 My latest projects
 
+- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) - 
+- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) - 
 - [Sunny-Island/java_js_benchmark](https://github.com/Sunny-Island/java_js_benchmark) - 
 - [Sunny-Island/how-to-optimize-gemm](https://github.com/Sunny-Island/how-to-optimize-gemm) - 
 - [Sunny-Island/winograd-onlyJava](https://github.com/Sunny-Island/winograd-onlyJava) - 
@@ -13,8 +17,6 @@
 - [Sunny-Island/Sunny-Island.github.io](https://github.com/Sunny-Island/Sunny-Island.github.io) - 
 - [Sunny-Island/Kafka2hdfs](https://github.com/Sunny-Island/Kafka2hdfs) - 美团大作业：用flink读取kafka写入hdfs
 - [Sunny-Island/daily-leetcode](https://github.com/Sunny-Island/daily-leetcode) - 
-- [Sunny-Island/Text-based-sentiment-factor](https://github.com/Sunny-Island/Text-based-sentiment-factor) - 世界第一能赚钱的因子的发掘过程
-- [Sunny-Island/SmilesAnalysis](https://github.com/Sunny-Island/SmilesAnalysis) - 毕业设计
 
 #### 🔭 Latest releases I've contributed to
 
