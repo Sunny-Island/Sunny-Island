@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (today)
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (today)
+- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (today)
 
 #### 🌱 My latest projects
 
@@ -23,6 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (today)
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (3 years ago)
 - [[Auto Scheduler] Upgrade autoscheduler xgboost callback](https://github.com/apache/tvm/pull/12144) on [apache/tvm](https://github.com/apache/tvm) (3 years ago)
 - [[Docs] Add xgboost version restriction](https://github.com/apache/tvm/pull/12050) on [apache/tvm](https://github.com/apache/tvm) (3 years ago)
@@ -32,7 +33,6 @@
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (4 years ago)
 - [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (4 years ago)
 - [[ISSUE 11511] Fix brew error in site docs to compile C&#43;&#43; client.](https://github.com/apache/pulsar/pull/11512) on [apache/pulsar](https://github.com/apache/pulsar) (4 years ago)
-- [[WIP] Pmem provider implementation](https://github.com/streamnative/bookkeeper-achieved/pull/384) on [streamnative/bookkeeper-achieved](https://github.com/streamnative/bookkeeper-achieved) (4 years ago)
 
 #### 📜 My recent blog posts
 
