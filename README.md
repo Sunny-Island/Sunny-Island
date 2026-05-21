@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (2 days ago)
+- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (today)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (3 days ago)
 
 #### 🌱 My latest projects
@@ -23,6 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (today)
 - [Wrap quiz answers in collapsible details tags for lec2-lec5](https://github.com/Sunny-Island/moesi-course/pull/1) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (2 days ago)
 - [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (4 days ago)
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (3 years ago)
@@ -32,7 +33,6 @@
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (4 years ago)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 years ago)
 - [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (4 years ago)
-- [[Issue 11493] Fix #11493. Simple implementation of getting number of references from C&#43;&#43; client](https://github.com/apache/pulsar/pull/11535) on [apache/pulsar](https://github.com/apache/pulsar) (4 years ago)
 
 #### 📜 My recent blog posts
 
