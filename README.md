@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (1 week ago)
-- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (1 week ago)
+- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (4 days ago)
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (5 days ago)
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (2 weeks ago)
 - [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000&#43; 词汇语料库 (3 weeks ago)
