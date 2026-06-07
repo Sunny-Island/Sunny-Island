@@ -65,10 +65,10 @@
 #### 👯 Check out some of my recent followers
 
 - [RealXuChe](https://github.com/RealXuChe)
-- [seckinyasar](https://github.com/seckinyasar)
 - [xings19](https://github.com/xings19)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
+- [Jinbo-W](https://github.com/Jinbo-W)
 
 #### 💬 Feedback
 
