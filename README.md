@@ -55,7 +55,7 @@
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (3 weeks ago)
 - [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000&#43; 词汇语料库 (1 month ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 months ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (2 months ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (4 months ago)
 - [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境 (10 months ago)
 
