@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Existence6688](https://github.com/Existence6688)
 - [RealXuChe](https://github.com/RealXuChe)
 - [xings19](https://github.com/xings19)
 - [SEasonest](https://github.com/SEasonest)
 - [eliseliangz](https://github.com/eliseliangz)
-- [Jinbo-W](https://github.com/Jinbo-W)
 
 #### 💬 Feedback
 
