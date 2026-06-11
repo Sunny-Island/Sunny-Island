@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (3 days ago)
-- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (2 weeks ago)
+- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (4 days ago)
+- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (3 weeks ago)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (2 weeks ago)
+- [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (3 weeks ago)
 - [Wrap quiz answers in collapsible details tags for lec2-lec5](https://github.com/Sunny-Island/moesi-course/pull/1) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (3 weeks ago)
 - [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (3 weeks ago)
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (3 years ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (6 days ago)
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (1 week ago)
 - [botiverse/agent-vault](https://github.com/botiverse/agent-vault) - Keep your secrets hidden from AI agents. (1 week ago)
 - [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI. (2 weeks ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
