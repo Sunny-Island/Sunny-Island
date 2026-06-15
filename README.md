@@ -4,7 +4,7 @@
 
 - [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (1 week ago)
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (3 weeks ago)
-- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (3 weeks ago)
+- [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
