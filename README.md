@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [Cai-aa/CAE-Agent-Hub](https://github.com/Cai-aa/CAE-Agent-Hub) -  (today)
 - [wjc9011/COMSOL_Multiphysics_MCP](https://github.com/wjc9011/COMSOL_Multiphysics_MCP) -  (today)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (1 week ago)
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill (1 month ago)
@@ -57,7 +58,6 @@
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (1 month ago)
 - [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000&#43; 词汇语料库 (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
