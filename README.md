@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents. (today)
 - [Cai-aa/CAE-Agent-Hub](https://github.com/Cai-aa/CAE-Agent-Hub) -  (5 days ago)
 - [wjc9011/COMSOL_Multiphysics_MCP](https://github.com/wjc9011/COMSOL_Multiphysics_MCP) -  (5 days ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - &#34;CLI-Anything: Making ALL Software Agent-Native&#34; -- CLI-Hub: https://clianything.cc/ (2 weeks ago)
@@ -57,7 +58,6 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 month ago)
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (1 month ago)
 - [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000&#43; 词汇语料库 (2 months ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
