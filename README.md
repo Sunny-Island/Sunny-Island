@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (1 month ago)
+- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (2 months ago)
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (2 months ago)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (2 months ago)
 
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [botiverse/hands](https://github.com/botiverse/hands) - The release platform for client apps, full loop: draft-first releases, staged rollouts, share pages, in-app updates, feedback &amp; crash tickets — agent-native, built on Cloudflare. (2 days ago)
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀 (6 days ago)
+- [botiverse/hands](https://github.com/botiverse/hands) - The release platform for client apps, full loop: draft-first releases, staged rollouts, share pages, in-app updates, feedback &amp; crash tickets — agent-native, built on Cloudflare. (3 days ago)
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀 (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (1 week ago)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations (1 week ago)
