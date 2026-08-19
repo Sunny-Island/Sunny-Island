@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (2 months ago)
-- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (2 months ago)
+- [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (3 months ago)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (2 months ago)
+- [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (3 months ago)
 - [Wrap quiz answers in collapsible details tags for lec2-lec5](https://github.com/Sunny-Island/moesi-course/pull/1) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (3 months ago)
 - [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (3 months ago)
 - [[WIP] Implementation of IoTDB Function Runtime Interface.](https://github.com/apache/iotdb/pull/7486) on [apache/iotdb](https://github.com/apache/iotdb) (3 years ago)
@@ -51,11 +51,11 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API (1 week ago)
 - [botiverse/hands](https://github.com/botiverse/hands) - The release platform for client apps, full loop: draft-first releases, staged rollouts, share pages, in-app updates, feedback &amp; crash tickets — agent-native, built on Cloudflare. (2 weeks ago)
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀 (2 weeks ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 weeks ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (3 weeks ago)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations (3 weeks ago)
 - [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) - A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。 (3 weeks ago)
-- [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit (4 weeks ago)
+- [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit (1 month ago)
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents. (1 month ago)
 - [Cai-aa/CAE-Agent-Hub](https://github.com/Cai-aa/CAE-Agent-Hub) -  (1 month ago)
 
