@@ -57,7 +57,7 @@
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (1 week ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API (1 month ago)
 - [botiverse/hands](https://github.com/botiverse/hands) - The release platform for client apps, full loop: draft-first releases, staged rollouts, share pages, in-app updates, feedback &amp; crash tickets — agent-native, built on Cloudflare. (1 month ago)
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀 (1 month ago)
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat 💬🚀 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
