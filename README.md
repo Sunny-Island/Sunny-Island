@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C&#43;&#43; wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V)) (today)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (1 day ago)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) -  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (2 weeks ago)
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS. (3 weeks ago)
@@ -57,7 +58,6 @@
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 (3 weeks ago)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (3 weeks ago)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API (1 month ago)
-- [botiverse/hands](https://github.com/botiverse/hands) - The release platform for client apps, full loop: draft-first releases, staged rollouts, share pages, in-app updates, feedback &amp; crash tickets — agent-native, built on Cloudflare. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
