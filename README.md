@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (today)
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (1 day ago)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) -  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (2 weeks ago)
-- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS. (2 weeks ago)
+- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS. (3 weeks ago)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (3 weeks ago)
 - [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models. (3 weeks ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
