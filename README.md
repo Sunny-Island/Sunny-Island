@@ -24,6 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [GH-51673: [C&#43;&#43;][Parquet] Skip missing min/max in metadata printer](https://github.com/apache/arrow/pull/51705) on [apache/arrow](https://github.com/apache/arrow) (today)
 - [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (4 months ago)
 - [Wrap quiz answers in collapsible details tags for lec2-lec5](https://github.com/Sunny-Island/moesi-course/pull/1) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (4 months ago)
 - [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (4 months ago)
@@ -33,7 +34,6 @@
 - [Add condition control when passing parameters bounds to scipy.minimize.](https://github.com/microsoft/nni/pull/4977) on [microsoft/nni](https://github.com/microsoft/nni) (4 years ago)
 - [(WIP)Publish first part of lab2](https://github.com/huihongxiao/MIT6.824/pull/2) on [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) (4 years ago)
 - [Add some comment to git rm and git log](https://github.com/OneSizeFitsQuorum/git-tips/pull/2) on [OneSizeFitsQuorum/git-tips](https://github.com/OneSizeFitsQuorum/git-tips) (4 years ago)
-- [Use sendRequestWithId to add timeout to hasMessageAvailable](https://github.com/apache/pulsar/pull/11600) on [apache/pulsar](https://github.com/apache/pulsar) (5 years ago)
 
 #### 📜 My recent blog posts
 
