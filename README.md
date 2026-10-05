@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (3 months ago)
+- [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (4 months ago)
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (4 months ago)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (4 months ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [GH-51673: [C&#43;&#43;][Parquet] Skip missing min/max in metadata printer](https://github.com/apache/arrow/pull/51705) on [apache/arrow](https://github.com/apache/arrow) (today)
+- [GH-51673: [C&#43;&#43;][Parquet] Skip missing min/max in metadata printer](https://github.com/apache/arrow/pull/51705) on [apache/arrow](https://github.com/apache/arrow) (1 day ago)
 - [Refactor/remove interview emphasis](https://github.com/Sunny-Island/moesi-course/pull/2) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (4 months ago)
 - [Wrap quiz answers in collapsible details tags for lec2-lec5](https://github.com/Sunny-Island/moesi-course/pull/1) on [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) (4 months ago)
 - [Add project infrastructure files](https://github.com/Sunny-Island/transformer-to-moe/pull/1) on [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) (4 months ago)
@@ -48,11 +48,11 @@
 
 #### ⭐ Recent Stars
 
-- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (2 days ago)
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (3 days ago)
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C&#43;&#43; wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V)) (1 week ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (1 week ago)
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang) -  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels (4 weeks ago)
-- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS. (4 weeks ago)
+- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes for ML SYS. (1 month ago)
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. (1 month ago)
 - [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models. (1 month ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 month ago)
