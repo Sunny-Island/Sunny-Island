@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (5 days ago)
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (6 days ago)
 - [BATX-AI/fusead](https://github.com/BATX-AI/fusead) - FuseAD: Fusion Anomaly Detection for Li-ion batteries. Improved DyAD with per-brand differentiation, multi-signal fusion, and soft top-p% scoring. 3-brand avg AUROC 0.9078. (4 months ago)
 - [Sunny-Island/moesi-course](https://github.com/Sunny-Island/moesi-course) -  (4 months ago)
 - [Sunny-Island/transformer-to-moe](https://github.com/Sunny-Island/transformer-to-moe) -  (4 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.0](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.0), 3 days ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.0](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.0), 4 days ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 #### 🔨 My recent Pull Requests
 
