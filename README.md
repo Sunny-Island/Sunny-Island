@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.1-rc1](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.1-rc1), 2 days ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.1-rc1](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.1-rc1), 3 days ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 #### 🔨 My recent Pull Requests
 
