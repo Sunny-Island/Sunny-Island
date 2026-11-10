@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.1](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.1), 6 days ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [apache/arrow](https://github.com/apache/arrow) ([apache-arrow-26.0.1](https://github.com/apache/arrow/releases/tag/apache-arrow-26.0.1), 1 week ago) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 #### 🔨 My recent Pull Requests
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (2 weeks ago)
+- [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) - DeepInfer: High-performance, large-scale inference framework for DeepSeek models (3 weeks ago)
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library (1 month ago)
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C&#43;&#43; wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V)) (1 month ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics (1 month ago)
